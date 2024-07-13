@@ -1,6 +1,6 @@
 TRABALHO GRAU B - Feito por Carlos Brazil, Marina Sardi, Emmanuel Siegel e Pietro Boscolo
 
-- Apresentação em vídeo está na pasta principal do repositório como "Apresentação Trabalho Grau B"
+- Apresentação em vídeo: https://youtu.be/0UkTmi6_Xzc
 
 - Construímos um pequeno joguinho de coleta de moedas e tentamos incluir todas as exigências, senda elas a alteração de tiles em tempo de execução, animação no player, coleta de objetos e um objetivo simples.
 
